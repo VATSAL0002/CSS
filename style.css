@@ -1,0 +1,30 @@
+.red{
+    width: 100px;
+    background-color: red;
+    height: 90px;
+    border-radius: 50%;
+    /* padding-left: 5px; */
+    margin-left: 8px;
+   
+}
+.yellow{
+    margin-top: 20px;
+    width: 100px;
+    background-color: yellow;
+    height: 90px;
+    border-radius: 50%;
+    margin-left: 8px;
+}
+.green{
+    margin-top: 20px;
+    width: 100px;
+    background-color: green;
+    height: 90px;
+    border-radius: 50%;
+    margin-left: 8px;
+}
+.main{
+    background-color: black;
+    width: 120px;
+    height: 312px;
+}
